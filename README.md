@@ -8,8 +8,7 @@ _ALPHA, this project is WORK IN PROGRESS. Use at you own peril!_
 
 Lein Barrier is a Leiningen plugin that makes sure specific parts of
 you code does not call functions in other parts.  Lein Barrier will
-detect code boundry violations and either make you build fail or print
-warnings during compile.
+detect code barrier violations.
 
 
 Install
