@@ -1,6 +1,9 @@
 Lein Barrier
 ============
 
+<img src="https://raw.github.com/TriforkSE/lein-barrier/master/logo.png" alt="Lein Barrier Logo"
+title="Cross thou not the barriers of code, or suffer Leiningen's devine wrath!" align="right" />
+
 _ALPHA, this project is WORK IN PROGRESS. Use at you own peril!_
 
 Lein Barrier is a Leiningen plugin that makes sure specific parts of
