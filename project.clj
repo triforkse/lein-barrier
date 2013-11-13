@@ -1,6 +1,7 @@
 (defproject lein-barrier "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :eval-in-leiningen true)
+  :description "Plugin for Leiningen to help prevent code calling other code that it shouldn't."
+  :url "http://github.com/triforkse/lein-barrier"
+  :license {:name "Apache License 2.0"
+            :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
+  :eval-in-leiningen true
+  :dependencies [[org.clojure/tools.namespace "0.2.4"]])
